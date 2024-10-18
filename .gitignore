@@ -2,6 +2,8 @@ New! 단축키 … 첫 글자를 탐색할 수 있도록 Drive 단축키가 업�
 # Created by https://www.toptal.com/developers/gitignore/api/eclipse
 # Edit at https://www.toptal.com/developers/gitignore?templates=eclipse
 
+driver.xml
+
 ### Eclipse ###
 .metadata
 bin/
